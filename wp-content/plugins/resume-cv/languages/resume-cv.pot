@@ -1,0 +1,756 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Resume / CV\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-15 03:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/resume-cv-options.php:352
+msgid "Accomplishment List"
+msgstr ""
+
+#: admin/resume-cv-options.php:347
+msgid "Accomplishment Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:685
+msgid "Add Another Award"
+msgstr ""
+
+#: admin/resume-cv-options.php:175
+msgid "Add Another Contact"
+msgstr ""
+
+#: admin/resume-cv-options.php:393
+msgid "Add Another Education"
+msgstr ""
+
+#: admin/resume-cv-options.php:305
+msgid "Add Another Experience"
+msgstr ""
+
+#: admin/resume-cv-options.php:519
+msgid "Add Another Hobby"
+msgstr ""
+
+#: admin/resume-cv-options.php:121
+msgid "Add Another Personal Item"
+msgstr ""
+
+#: admin/resume-cv-options.php:250
+msgid "Add Another Qualification"
+msgstr ""
+
+#: admin/resume-cv-options.php:610
+msgid "Add Another Reference"
+msgstr ""
+
+#: admin/resume-cv-options.php:743
+msgid "Add Another Service"
+msgstr ""
+
+#: admin/resume-cv-options.php:466
+msgid "Add Another Skill Bar"
+msgstr ""
+
+#: admin/resume-cv-options.php:188
+msgid "Address"
+msgstr ""
+
+#: admin/resume-cv-options.php:532
+msgid "archer"
+msgstr ""
+
+#: admin/resume-cv-options.php:657
+msgid "Award"
+msgstr ""
+
+#: admin/resume-cv-options.php:684
+msgid "Award {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:533
+msgid "basket"
+msgstr ""
+
+#: admin/resume-cv-options.php:534
+msgid "bike"
+msgstr ""
+
+#: admin/resume-cv-options.php:756
+msgid "Birthday"
+msgstr ""
+
+#: admin/resume-cv-options.php:757
+msgid "Book"
+msgstr ""
+
+#: admin/resume-cv-options.php:759
+msgid "Bus"
+msgstr ""
+
+#: admin/resume-cv-options.php:758
+msgid "Cab"
+msgstr ""
+
+#: admin/resume-cv-options.php:761
+msgid "Calendar"
+msgstr ""
+
+#: admin/resume-cv-options.php:760
+msgid "Camera"
+msgstr ""
+
+#: admin/resume-cv-options.php:36
+msgid "Choose Theme"
+msgstr ""
+
+#: admin/resume-cv-options.php:762
+msgid "Cloud"
+msgstr ""
+
+#: admin/resume-cv-options.php:763
+msgid "Coffee"
+msgstr ""
+
+#: admin/resume-cv-options.php:764
+msgid "Cog"
+msgstr ""
+
+#: admin/resume-cv-options.php:324
+msgid "Company Address"
+msgstr ""
+
+#: admin/resume-cv-options.php:318 admin/resume-cv-options.php:630
+msgid "Company Name"
+msgstr ""
+
+#: admin/resume-cv-options.php:146
+msgid "Contact"
+msgstr ""
+
+#: admin/resume-cv-options.php:174
+msgid "Contact {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:765
+msgid "Database"
+msgstr ""
+
+#: admin/resume-cv-options.php:342 admin/resume-cv-options.php:431
+#: admin/resume-cv-options.php:647 admin/resume-cv-options.php:705
+#: admin/resume-cv-options.php:791
+msgid "Description"
+msgstr ""
+
+#: admin/resume-cv-options.php:766
+msgid "Diamond"
+msgstr ""
+
+#: admin/resume-cv-options.php:60 admin/resume-cv-options.php:159
+#: admin/resume-cv-options.php:234 admin/resume-cv-options.php:290
+#: admin/resume-cv-options.php:378 admin/resume-cv-options.php:457
+#: admin/resume-cv-options.php:504 admin/resume-cv-options.php:595
+#: admin/resume-cv-options.php:670 admin/resume-cv-options.php:728
+msgid "Disable"
+msgstr ""
+
+#: admin/resume-cv-options.php:535
+msgid "dive"
+msgstr ""
+
+#: admin/resume-cv-options.php:767
+msgid "Driver License"
+msgstr ""
+
+#: admin/resume-cv-options.php:365
+msgid "Education"
+msgstr ""
+
+#: admin/resume-cv-options.php:392
+msgid "Education {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:642
+msgid "Email"
+msgstr ""
+
+#: admin/resume-cv-options.php:59 admin/resume-cv-options.php:158
+#: admin/resume-cv-options.php:233 admin/resume-cv-options.php:289
+#: admin/resume-cv-options.php:377 admin/resume-cv-options.php:456
+#: admin/resume-cv-options.php:503 admin/resume-cv-options.php:594
+#: admin/resume-cv-options.php:669 admin/resume-cv-options.php:727
+msgid "Enable"
+msgstr ""
+
+#: admin/resume-cv-options.php:336 admin/resume-cv-options.php:424
+msgid "End Year"
+msgstr ""
+
+#: admin/resume-cv-options.php:699
+msgid "Event"
+msgstr ""
+
+#: admin/resume-cv-options.php:137
+msgid "Example : 01 June 1990"
+msgstr ""
+
+#: admin/resume-cv-options.php:333 admin/resume-cv-options.php:421
+msgid "Example : 2014"
+msgstr ""
+
+#: admin/resume-cv-options.php:677
+msgid "Example : Award"
+msgstr ""
+
+#: admin/resume-cv-options.php:131
+msgid "Example : Birth Date / Address "
+msgstr ""
+
+#: admin/resume-cv-options.php:315
+msgid "Example : Bussiness Analyst"
+msgstr ""
+
+#: admin/resume-cv-options.php:385
+msgid "Example : Education"
+msgstr ""
+
+#: admin/resume-cv-options.php:297
+msgid "Example : Experience"
+msgstr ""
+
+#: admin/resume-cv-options.php:511
+msgid "Example : Hobby"
+msgstr ""
+
+#: admin/resume-cv-options.php:211
+msgid ""
+"Example : http://twitter.com/wpamanuke . Or just don't fill anything , if "
+"you don't want to link"
+msgstr ""
+
+#: admin/resume-cv-options.php:403
+msgid "Example : Information Technology"
+msgstr ""
+
+#: admin/resume-cv-options.php:627
+msgid "Example : IT Manager"
+msgstr ""
+
+#: admin/resume-cv-options.php:621
+msgid "Example : John Doe"
+msgstr ""
+
+#: admin/resume-cv-options.php:268
+msgid "Example : Lead 10 people and make 1 million USD a month for company"
+msgstr ""
+
+#: admin/resume-cv-options.php:261
+msgid "Example : Leadership"
+msgstr ""
+
+#: admin/resume-cv-options.php:434
+msgid "Example : Learn OOP and Functional Programming using C++"
+msgstr ""
+
+#: admin/resume-cv-options.php:356
+msgid "Example : Make Company CRM using Ruby On Rails"
+msgstr ""
+
+#: admin/resume-cv-options.php:702
+msgid "Example : Marathon Berlin 2018"
+msgstr ""
+
+#: admin/resume-cv-options.php:696
+msgid "Example : Marathon Finisher"
+msgstr ""
+
+#: admin/resume-cv-options.php:409
+msgid "Example : MIT"
+msgstr ""
+
+#: admin/resume-cv-options.php:339 admin/resume-cv-options.php:427
+msgid "Example : Present"
+msgstr ""
+
+#: admin/resume-cv-options.php:99
+msgid "Example : Profile"
+msgstr ""
+
+#: admin/resume-cv-options.php:241
+msgid "Example : Qualification"
+msgstr ""
+
+#: admin/resume-cv-options.php:602
+msgid "Example : Reference"
+msgstr ""
+
+#: admin/resume-cv-options.php:735
+msgid "Example : Services"
+msgstr ""
+
+#: admin/resume-cv-options.php:476
+msgid "Example : Software Skills"
+msgstr ""
+
+#: admin/resume-cv-options.php:205
+msgid "Example : twitter.com/wpamanuke"
+msgstr ""
+
+#: admin/resume-cv-options.php:327 admin/resume-cv-options.php:415
+msgid "Example : USA"
+msgstr ""
+
+#: admin/resume-cv-options.php:321 admin/resume-cv-options.php:633
+msgid "Example : WPAmaNuke Inc"
+msgstr ""
+
+#: admin/resume-cv-options.php:276
+msgid "Experience"
+msgstr ""
+
+#: admin/resume-cv-options.php:304
+msgid "Experience {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:192
+msgid "Facebook"
+msgstr ""
+
+#: admin/resume-cv-options.php:283
+msgid "field description (optional)"
+msgstr ""
+
+#: admin/resume-cv-options.php:164
+msgid "Fill Contact Title. Example : Contact"
+msgstr ""
+
+#: admin/resume-cv-options.php:65
+msgid "Fill Your Name"
+msgstr ""
+
+#: admin/resume-cv-options.php:72
+msgid "Fill Your Profession"
+msgstr ""
+
+#: admin/resume-cv-options.php:536
+msgid "fishing"
+msgstr ""
+
+#: admin/resume-cv-options.php:768
+msgid "Gear"
+msgstr ""
+
+#: admin/resume-cv-options.php:769
+msgid "Gears"
+msgstr ""
+
+#: admin/resume-cv-options.php:246
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: admin/resume-cv-options.php:196
+msgid "Github"
+msgstr ""
+
+#: admin/resume-cv-options.php:537
+msgid "golf"
+msgstr ""
+
+#: admin/resume-cv-options.php:770
+msgid "Graduation Cap"
+msgstr ""
+
+#: admin/resume-cv-options.php:771
+msgid "Handshake"
+msgstr ""
+
+#: admin/resume-cv-options.php:491
+msgid "Hobbies"
+msgstr ""
+
+#: admin/resume-cv-options.php:551
+msgid "Hobby Image"
+msgstr ""
+
+#: admin/resume-cv-options.php:571
+msgid "Hobby Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:518
+msgid "Hobby {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:538
+msgid "horse"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpamanuke.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpamanuke.com/resume-cv"
+msgstr ""
+
+#: admin/resume-cv-options.php:182 admin/resume-cv-options.php:526
+#: admin/resume-cv-options.php:750
+msgid "Icon"
+msgstr ""
+
+#: admin/resume-cv-options.php:194
+msgid "Instagram"
+msgstr ""
+
+#: admin/resume-cv-options.php:772
+msgid "Institution"
+msgstr ""
+
+#: admin/resume-cv-options.php:128
+msgid "Item Text"
+msgstr ""
+
+#: admin/resume-cv-options.php:134
+msgid "Item Value"
+msgstr ""
+
+#: admin/resume-cv-options.php:539
+msgid "karate"
+msgstr ""
+
+#: admin/resume-cv-options.php:773
+msgid "Legal"
+msgstr ""
+
+#: admin/resume-cv-options.php:774
+msgid "Life Buoy"
+msgstr ""
+
+#: admin/resume-cv-options.php:775
+msgid "Line Chart"
+msgstr ""
+
+#: admin/resume-cv-options.php:195
+msgid "Linkedin"
+msgstr ""
+
+#: admin/resume-cv-options.php:776
+msgid "Microphone"
+msgstr ""
+
+#: admin/resume-cv-options.php:190
+msgid "Mobile Phone"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Modern Resume / CV Creator. Perfect way tools that help you to make positive "
+"impression. This minimal and modern design will highlight your most relevant "
+"features to get you noticed and create a consistent voice of your personal "
+"brand in all communications. To use this plugin : 1) Create a Page and "
+"choose Template : Resume CV Template 2) In the admin area . Click Resume CV "
+"and do modification than save 3) Just go to page url to see the result"
+msgstr ""
+
+#: admin/resume-cv-options.php:618
+msgid "Name"
+msgstr ""
+
+#: admin/resume-cv-options.php:777
+msgid "Object Group"
+msgstr ""
+
+#: admin/resume-cv-options.php:778
+msgid "Paint Brush"
+msgstr ""
+
+#: admin/resume-cv-options.php:111
+msgid "Personal Details Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:120
+msgid "Personal Item {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:189 admin/resume-cv-options.php:636
+msgid "Phone"
+msgstr ""
+
+#: admin/resume-cv-options.php:540
+msgid "piano"
+msgstr ""
+
+#: admin/resume-cv-options.php:312 admin/resume-cv-options.php:624
+msgid "Position"
+msgstr ""
+
+#: admin/resume-cv-options.php:47
+msgid "Profile"
+msgstr ""
+
+#: admin/resume-cv-options.php:104
+msgid "Profile Description"
+msgstr ""
+
+#: admin/resume-cv-options.php:78
+msgid "Profile photo"
+msgstr ""
+
+#: admin/resume-cv-options.php:98
+msgid "Profile Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:400
+msgid "Program"
+msgstr ""
+
+#: admin/resume-cv-options.php:541
+msgid "programming"
+msgstr ""
+
+#: admin/resume-cv-options.php:221
+msgid "Qualification"
+msgstr ""
+
+#: admin/resume-cv-options.php:264
+msgid "Qualification List"
+msgstr ""
+
+#: admin/resume-cv-options.php:258
+msgid "Qualification Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:249
+msgid "Qualification {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:542
+msgid "reading"
+msgstr ""
+
+#: admin/resume-cv-options.php:582
+msgid "Reference "
+msgstr ""
+
+#: admin/resume-cv-options.php:609
+msgid "Reference {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:686
+msgid "Remove Award"
+msgstr ""
+
+#: admin/resume-cv-options.php:176
+msgid "Remove Contaction"
+msgstr ""
+
+#: admin/resume-cv-options.php:394
+msgid "Remove Education"
+msgstr ""
+
+#: admin/resume-cv-options.php:306
+msgid "Remove Experience"
+msgstr ""
+
+#: admin/resume-cv-options.php:520
+msgid "Remove Hobby"
+msgstr ""
+
+#: admin/resume-cv-options.php:122
+msgid "Remove Personal Item"
+msgstr ""
+
+#: admin/resume-cv-options.php:251
+msgid "Remove Qualification"
+msgstr ""
+
+#: admin/resume-cv-options.php:611
+msgid "Remove Reference"
+msgstr ""
+
+#: admin/resume-cv-options.php:744
+msgid "Remove Service"
+msgstr ""
+
+#: admin/resume-cv-options.php:467
+msgid "Remove Skill Bar"
+msgstr ""
+
+#. Name of the plugin
+msgid "Resume / CV"
+msgstr ""
+
+#: admin/resume-cv-options.php:16
+msgid "Resume CV"
+msgstr ""
+
+#: admin/resume-cv-options.php:543
+msgid "running"
+msgstr ""
+
+#: admin/resume-cv-options.php:412
+msgid "School Address"
+msgstr ""
+
+#: admin/resume-cv-options.php:406
+msgid "School Name"
+msgstr ""
+
+#: admin/resume-cv-options.php:715
+msgid "Service"
+msgstr ""
+
+#: admin/resume-cv-options.php:786
+msgid "Service Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:742
+msgid "Service {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:663
+msgid "Show Award"
+msgstr ""
+
+#: admin/resume-cv-options.php:152
+msgid "Show Contact"
+msgstr ""
+
+#: admin/resume-cv-options.php:371
+msgid "Show Education"
+msgstr ""
+
+#: admin/resume-cv-options.php:282
+msgid "Show Experience"
+msgstr ""
+
+#: admin/resume-cv-options.php:497
+msgid "Show Hobbies"
+msgstr ""
+
+#: admin/resume-cv-options.php:53
+msgid "Show Profile"
+msgstr ""
+
+#: admin/resume-cv-options.php:227
+msgid "Show Qualification"
+msgstr ""
+
+#: admin/resume-cv-options.php:588
+msgid "Show Reference"
+msgstr ""
+
+#: admin/resume-cv-options.php:721
+msgid "Show Service"
+msgstr ""
+
+#: admin/resume-cv-options.php:450
+msgid "Show Skill"
+msgstr ""
+
+#: admin/resume-cv-options.php:444
+msgid "Skill Bar"
+msgstr ""
+
+#: admin/resume-cv-options.php:465
+msgid "Skill Bar {#}"
+msgstr ""
+
+#: admin/resume-cv-options.php:479
+msgid "Skill List"
+msgstr ""
+
+#: admin/resume-cv-options.php:197
+msgid "Skype"
+msgstr ""
+
+#: admin/resume-cv-options.php:780
+msgid "Space Shuttle"
+msgstr ""
+
+#: admin/resume-cv-options.php:544
+msgid "squash"
+msgstr ""
+
+#: admin/resume-cv-options.php:330 admin/resume-cv-options.php:418
+msgid "Start Year"
+msgstr ""
+
+#: admin/resume-cv-options.php:545
+msgid "swim"
+msgstr ""
+
+#: admin/resume-cv-options.php:546
+msgid "tennis"
+msgstr ""
+
+#: admin/resume-cv-options.php:163 admin/resume-cv-options.php:238
+#: admin/resume-cv-options.php:294 admin/resume-cv-options.php:382
+#: admin/resume-cv-options.php:473 admin/resume-cv-options.php:508
+#: admin/resume-cv-options.php:599 admin/resume-cv-options.php:674
+#: admin/resume-cv-options.php:693 admin/resume-cv-options.php:732
+msgid "Title"
+msgstr ""
+
+#: admin/resume-cv-options.php:779
+msgid "Truck"
+msgstr ""
+
+#: admin/resume-cv-options.php:193
+msgid "Twitter"
+msgstr ""
+
+#: admin/resume-cv-options.php:552
+msgid ""
+"Upload an image or enter an URL of Your Hobby (If you did not want to use "
+"icon). (Size 200x200)"
+msgstr ""
+
+#: admin/resume-cv-options.php:79
+msgid "Upload an image or enter an URL of Your Photo. (Size 290x290)"
+msgstr ""
+
+#: admin/resume-cv-options.php:203
+msgid "Value"
+msgstr ""
+
+#: admin/resume-cv-options.php:209
+msgid "Value URL"
+msgstr ""
+
+#: admin/resume-cv-options.php:781
+msgid "Wifi"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPAmaNuke"
+msgstr ""
+
+#: admin/resume-cv-options.php:782
+msgid "Wrench"
+msgstr ""
+
+#: admin/resume-cv-options.php:547
+msgid "yoga"
+msgstr ""
+
+#: admin/resume-cv-options.php:64
+msgid "Your Name"
+msgstr ""
+
+#: admin/resume-cv-options.php:71
+msgid "Your Profession"
+msgstr ""
+
+#: admin/resume-cv-options.php:105
+msgid "Your Profile Description"
+msgstr ""
